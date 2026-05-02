@@ -19,7 +19,8 @@ I am a final-year Computer Science Engineering student passionate about building
 </p>
 
 ### 📈 GitHub Stats
-![Pritivardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritivardhan21&show_icons=true&theme=radical)
+
+![Pritivardhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritivardhan21&theme=radical&hide_border=true)
 
 ### 📫 Let's Connect
 <p align="left">
