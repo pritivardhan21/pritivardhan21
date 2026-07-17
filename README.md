@@ -38,7 +38,7 @@ A Software-Defined Networking defense system that detects zero-day threats in re
 - Designed a **Docker-based honeypot** deception network and tracked attacker behavior inside isolated environments.
 
 **Tech:** Python · Ryu Controller · Docker · Software-Defined Networking (SDN)
-🔗 [Repository](https://github.com/pritivardhan21) <!-- swap in the direct NetDefender repo link -->
+🔗 [Repository](https://github.com/pritivardhan21/NetDefender) <!-- swap in the direct NetDefender repo link -->
 
 ---
 
